@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   # We still want to support 1.8.7
   s.add_dependency('mime-types', '~> 1.2')
   # We still want to support 1.8.7
-  s.add_dependency('nokogiri', '~> 1.5.0')
+  s.add_dependency('nokogiri', '~> 1.5')
   s.add_dependency('mechanize')
   s.add_dependency('progressbar')
   s.add_dependency('multi_json')
